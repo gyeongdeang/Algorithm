@@ -1,3 +1,5 @@
+package firstweek;
+
 import java.util.Scanner;
 
 public class BJ1550 {

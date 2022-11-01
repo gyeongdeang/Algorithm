@@ -1,3 +1,5 @@
+package firstweek;
+
 public class BJ5337 {
     //웰컴
     public static void main(String[] args) {
